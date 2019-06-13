@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.banner {
+    display: flex;
+    height: 20vh;
+    width: 100vw;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: space-evenly;
+}
+.lives {
+    display: flex;
+}
+.title {
+    display: flex;
+}
+.score {
+    display: flex;
+}
+.rules {
+    display: flex;
+    justify-content: center;
+}
+.gameBody {
+    display: flex;
+    justify-content: center;
+}
